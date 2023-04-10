@@ -1,0 +1,15 @@
+%d  (لطباعة الاعداد ال integer)
+scanF("%d",& variable name) هنا بتقولوا انك هتدخل قيمه integer
+print("%d",variable name) هتطبع قيمة integer
+
+%f      (لطباعة الاعداد ال float)
+%.nf    بتاخد عدد الارقام  بعد العلامه 
+%lf           double
+%c           char
+%s          string
+%lu         sizeof()
+
+
+
+
+
