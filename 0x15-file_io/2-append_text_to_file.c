@@ -30,7 +30,7 @@ int append_text_to_file(const char *filename, char *text_content)
 		{
 			w++;
 		}
-		app_status = write(f, text_content, w);
+		 status = write(f, text_content, w);
 
 		if (status == -1) 
 		{
